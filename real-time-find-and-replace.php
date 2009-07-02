@@ -55,7 +55,7 @@ function far_options_page(){
 			if(isset($farsettings['farregex'][$key]))
 				$regex = 'CHECKED';
 			$replace = $farsettings['farreplace'][$key];
-			echo "<p id='row$i'><label for='farfind$i'>Find:&nbsp;</label><textarea rows='2' cols='40' name='farfind[$i]' id='farfind$i'>$find</textarea>&nbsp;&nbsp;<label for='farregex$i'>RegEx?:&nbsp;</label><input type='checkbox' name='farregex[$i]' id='farregex$i' $regex />&nbsp;&nbsp;<label for='farreplace$i'>Replace:&nbsp;</label><textarea rows='2' cols='40' name='farreplace[$i]' id='farreplace$i'>$replace</textarea>&nbsp;&nbsp&nbsp;<a href='#' onClick='removeFormField(\"#row$i\"); return false;'>Remove</a></p>\n"; // this is identical to what the js returns when adding new items
+			echo "<p id='row$i'><label for='farfind$i'>Find:&nbsp;</label><textarea rows='3' cols='30' name='farfind[$i]' id='farfind$i'>$find</textarea>&nbsp;&nbsp;<label for='farregex$i'>RegEx?:&nbsp;</label><input type='checkbox' name='farregex[$i]' id='farregex$i' $regex />&nbsp;&nbsp;<label for='farreplace$i'>Replace:&nbsp;</label><textarea rows='3' cols='30' name='farreplace[$i]' id='farreplace$i'>$replace</textarea>&nbsp;&nbsp&nbsp;<a href='#' onClick='removeFormField(\"#row$i\"); return false;'>Remove</a></p>\n"; // this is identical to what the js returns when adding new items
 			unset($regex);
 			$i++;
 		}
