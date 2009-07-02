@@ -25,6 +25,8 @@ And remember, all of the above can be done WITHOUT modifying themes or plugin fi
 
 1. Upload the real-time-find-and-replace folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+3. The find and replace rules are in the Tools sidebar menu.
+4. Click on the Add link on the Find and Replace admin page to add as many rules as you want.
 
 == Frequently Asked Questions ==
 
@@ -35,3 +37,7 @@ In an array in the wp_options table. Just one record regardless of the number of
 = Will the find and replace slow my site? =
 
 Unless you're using 50+ rules, you shouldn't notice any performance impact.
+
+= What does the regex checkbox do? =
+
+You can do a straight up find and replace where the plugin will look for an exact match of what you specified. You can also used advanced pattern matching that is available through regular expressions by checking the regex checkbox.
