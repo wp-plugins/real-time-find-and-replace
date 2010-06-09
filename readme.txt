@@ -41,3 +41,15 @@ Unless you're using 50+ rules, you shouldn't notice any performance impact.
 = What does the regex checkbox do? =
 
 You can do a straight up find and replace where the plugin will look for an exact match of what you specified. You can also used advanced pattern matching that is available through regular expressions by checking the regex checkbox.
+
+= I like this plugin, do you have others? =
+
+I sure do!
+
+Social Media E-Mail Alerts
+Receive e-mail alerts when your site gets traffic from social media sites of your choosing. You can also set up alerts for when certain parameters app 
+http://wordpress.org/extend/plugins/social-media-email-alerts/
+
+RSS Includes Pages
+Modifies RSS feeds so that they include pages and not just posts. 
+http://wordpress.org/extend/plugins/rss-includes-pages/
