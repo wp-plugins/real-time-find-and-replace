@@ -59,5 +59,5 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 = 1.0 =
 * Initial release.
 
-= 1.2 =
+= 1.1 =
 * FAQ updates and confirming plugin works with WordPress 2.9.2.
