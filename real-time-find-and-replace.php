@@ -15,7 +15,7 @@ Author URI: http://infolific.com/technology/
 add_action('admin_menu', 'far_add_pages');
 
 function far_add_pages() { // Add a  submenu under Tools
-	$page = add_submenu_page( 'tools.php', 'Real-Time Search and Replace', 'Real-Time Search and Replace', 'activate_plugins', 'real-time-find-and-replace', 'far_options_page');
+	$page = add_submenu_page( 'tools.php', 'Real-Time Find and Replace', 'Real-Time Find and Replace', 'activate_plugins', 'real-time-find-and-replace', 'far_options_page');
 	add_action( "admin_print_scripts-$page", 'far_admin_scripts' );
 }
 function far_options_page(){
@@ -44,7 +44,7 @@ function far_options_page(){
 		</div><?php
 	} ?>
 	<div class="wrap" style="padding-bottom:5em">
-	<h2>Real-Time Search and Replace</h2>
+	<h2>Real-Time Find and Replace</h2>
 	<p>Enter your find and replace cases below.</p>
 	<form method="post" action="<?php echo $_SERVER["REQUEST_URI"]; ?>">
 		<?php
