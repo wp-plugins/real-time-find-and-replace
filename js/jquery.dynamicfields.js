@@ -9,3 +9,4 @@ function addFormField() {
 }
 function removeFormField(id) {
 	jQuery(id).highlightFade({color:'rgb(255,0,0)',complete:function() { jQuery(id).remove() },iterator:'sinusoidal'});}
+ 
