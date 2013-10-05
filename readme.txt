@@ -3,8 +3,8 @@ Contributors: Marios Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/
 Tags: find, replace
 Requires at least: 2.7
-Tested up to: 3.5.2
-Stable tag: 1.5
+Tested up to: 3.6.1
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,3 +83,6 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 
 = 1.5 =
 * Fixed some jQuery bugs affecting the adding and removing of boxes.
+
+= 1.6 =
+* Fixed problem with HTML character handling. Thanks to acub (http://profiles.wordpress.org/acub) for the code.
