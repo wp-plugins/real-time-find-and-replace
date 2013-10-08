@@ -4,7 +4,7 @@ Donate link: http://infolific.com/technology/software-worth-using/real-time-find
 Tags: find, replace
 Requires at least: 2.7
 Tested up to: 3.6.1
-Stable tag: 1.6
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,7 +24,7 @@ Here are some real-world examples:
 
 Here are some more examples:
 
-http://infolific.com/technology/blogging-and-web-publishing/handiest-wordpress-plugin-youve-never-heard-of/
+http://infolific.com/technology/internet/handiest-wordpress-plugin-youve-never-heard-of/
 
 And remember, all of the above can be done WITHOUT modifying themes or plugin files so you'll always be able to upgrade them without having to worry about losing custom edits.
 
@@ -86,3 +86,7 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 
 = 1.6 =
 * Fixed problem with HTML character handling. Thanks to acub (http://profiles.wordpress.org/acub) for the code.
+
+= 2.0 =
+* Interface revamped.
+* New feature: Can re-order your rules via drag-and-drop.
