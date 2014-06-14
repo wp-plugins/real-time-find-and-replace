@@ -3,8 +3,8 @@ Contributors: Marios Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/
 Tags: find, replace
 Requires at least: 2.7
-Tested up to: 3.6.1
-Stable tag: 2.0
+Tested up to: 3.9.1
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,3 +90,6 @@ http://wordpress.org/extend/plugins/rss-includes-pages/
 = 2.0 =
 * Interface revamped.
 * New feature: Can re-order your rules via drag-and-drop.
+
+= 2.1 =
+* Fixed PHP code that leaves $regex wrongly unset. Thanks to http://wordpress.org/support/profile/daniellandau for the fix.
