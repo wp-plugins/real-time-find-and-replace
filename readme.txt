@@ -22,11 +22,11 @@ Here are some real-world examples:
 2. Annoyed by the link that Global Translator adds to every page? Remove it!
 3. Have you noticed that the Sociable plugin doesn't correctly display the Twitter image? No problem, insert it!
 
-Here are some more examples:
-
-http://infolific.com/technology/internet/handiest-wordpress-plugin-youve-never-heard-of/
+Here are some more examples: http://infolific.com/technology/internet/handiest-wordpress-plugin-youve-never-heard-of/
 
 And remember, all of the above can be done WITHOUT modifying themes or plugin files so you'll always be able to upgrade them without having to worry about losing custom edits.
+
+If you have questions or notice a bug, please contact Marios Alexandrou here: http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/
 
 == Installation ==
 
