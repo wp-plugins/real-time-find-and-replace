@@ -24,7 +24,7 @@ Here are some real-world examples:
 
 Here are some <a href="http://infolific.com/technology/internet/handiest-wordpress-plugin-youve-never-heard-of/">more examples</a> all of which can be done WITHOUT modifying themes or plugin files so you'll always be able to upgrade them without having to worry about losing custom edits.
 
-If you have questions or notice a bug, please contact Marios Alexandrou at the official <a href="http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/">Real-Time Find and Replace for WordPress page</a>.
+If you have questions or notice a bug, please contact Marios Alexandrou at the official <a href="http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/">Real-Time Find and Replace for WordPress page</a> on Infolific.com.
 
 == Installation ==
 
