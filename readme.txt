@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/
 Tags: find, replace
 Requires at least: 2.7
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
