@@ -1,5 +1,5 @@
 === Real-Time Find and Replace ===
-Contributors: Marios Alexandrou
+Contributors: Marios-Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/real-time-find-and-replace-for-wordpress/
 Tags: find, replace
 Requires at least: 2.7
