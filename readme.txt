@@ -1,5 +1,5 @@
 === Real-Time Find and Replace ===
-Contributors: Marios-Alexandrou
+Contributors: Marios Alexandrou
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VCPWXSGJVCQFQ&lc=CA&item_name=Marios%20Alexandrou&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: find, replace
 Requires at least: 2.7
